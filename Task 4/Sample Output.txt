@@ -1,0 +1,11 @@
+MayI know your age?15
+Sorry!You are to young to vote.
+--------------------------------
+
+MayI know your age?18
+You are eligible to vote.
+--------------------------------
+
+MayI know your age?25
+You are eligible to vote.
+--------------------------------
